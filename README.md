@@ -5,7 +5,7 @@ This project contains the source code for an attractive, responsive, and high-pe
 
 ---
 
-## Table of Contents
+## 📖 Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -18,14 +18,14 @@ This project contains the source code for an attractive, responsive, and high-pe
 
 ---
 
-## Overview
+## 💡 Overview
 
 This landing page is built for the Majestic New Friends project to showcase its unique offerings, engage visitors, and provide essential information in a visually compelling manner.  
 It is optimized for speed, accessibility, and mobile-first design.
 
 ---
 
-## Features
+## ⚡Features
 
 - Fully responsive design for all devices
 - Modern, clean, and engaging UI
@@ -36,7 +36,7 @@ It is optimized for speed, accessibility, and mobile-first design.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **CSS** (48.3%)
 - **HTML** (26.6%)
@@ -45,7 +45,7 @@ It is optimized for speed, accessibility, and mobile-first design.
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
 A typical organizational structure for this repository:
 
@@ -70,7 +70,7 @@ Majestic-New-Friends-Landing-Page/
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -87,7 +87,7 @@ Majestic-New-Friends-Landing-Page/
 
 ---
 
-## Contributing
+## 📝 Contributing
 
 We welcome contributions to improve the landing page!
 
@@ -100,13 +100,13 @@ Please follow HTML, CSS, and JS best practices, and ensure your code is clean an
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
+## 📧 Contact
 
 For queries, suggestions, or feedback, please open an issue or contact [fullmoonhq](https://github.com/fullmoonhq).
 
